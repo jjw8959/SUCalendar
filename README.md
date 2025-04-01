@@ -1,2 +1,2 @@
 # SUCalendar
-Calendar Component for SwiftUI
+Custom Calendar Component for SwiftUI
